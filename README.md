@@ -7,3 +7,4 @@ Book store
  4.science 
  5.comic
  6.history
+ 7.Horror
