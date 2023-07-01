@@ -8,3 +8,4 @@ Book store
  5.comic
  6.history
  7.Horror
+ 8.documentry
